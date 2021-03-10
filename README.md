@@ -1,4 +1,4 @@
-请点击旁边的Releases下载书源（阅读本地导入即可，下面这些直接网络导入即可）
+请点击旁边的Releases下载书源（阅读本地导入，下面这些直接网络导入即可）
 
 【自用书源】网络导入地址：http://yuedu.test.upcdn.net/ziyong.json
 
